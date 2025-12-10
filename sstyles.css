@@ -1,7 +1,6 @@
 body{
     background:#111111;
     color: #ffff   
-
 }
 
 main{max-width: 900px;
@@ -44,7 +43,7 @@ ul{
     font-weight: bold;
     font-size: 1.2em;
     list-style-type: '⚡ '; 
-    padding-left: 20px;;
+    padding-left: 550px;;
 }
 
 ul li {
@@ -58,5 +57,56 @@ img{
     margin: 1 auto;
     border-radius: 4px;
 }
+
+
+.box3 {
+    background-image:url("https://sm.ign.com/ign_es/photo/d/dlss-4-exp/dlss-4-explained-everything-you-need-to-know-about-nvidias-l_246f.jpg");
+    background-size: 100%;
+    width: 650px;
+    margin: 0 autO;
+    height: 360px
+    
+
+}
+
+.box4 {
+    background-image:url("https://www.chuwi.com/public/upload/image/20230214/7dc23bdf80323d98de3d945a5167f66e.jpg"); 
+    background-size: 100%;
+    width: 650px;
+    margin: 0 auto;
+    height: 390px;
+    
+
+}
+
+
+.box5 {
+    background-image:url("https://i.blogs.es/3410ee/samsung-gddr7/1200_900.jpeg");
+    background-size: 100%;
+    width: 660px;
+    margin: 0 auto;
+    height: 470px;
+    
+}
+
+.box6 {
+    background-image: url("https://www.gsmpro.cl/cdn/shop/articles/Nvidia-GeForce-RTX-5090-rumores.jpg?v=1721061793");
+    background-size: 100%;
+    width: 1500px;
+    height: 800px;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+.oscuro {
+    background-color: rgba(0, 0, 0, 0.667);
+    width: 100%;
+    height: 100%
+}
+
+h1 {text-align: center;}
+
+
+
 
 
